@@ -57,13 +57,13 @@ After a minute or two, your site will be live at:
 
 ## Video format note
 
-The page uses your **.mov** file. Safari and many browsers support it. If someone has trouble playing it (e.g. in Firefox), you can:
+The page uses your **.MP4** file. Many browsers support it. If someone has trouble playing it (e.g. in Firefox), you can:
 
-1. Convert the video to **MP4 (H.264)** (e.g. with QuickTime: File → Export → 1080p, or HandBrake).
-2. Replace the file and in `index.html` change the `<source>` to point to the new `.mp4` file.
+1. Convert the video to **Desired extension)** (e.g. with QuickTime: File → Export → 1080p, or HandBrake).
+2. Replace the file and in `index.html` change the `<source>` to point to the new `Desired extension` file.
 
 ---
 
 ## Repo size
 
-GitHub has a **100 MB** per-file limit. If your `.mov` is larger, compress it or convert to a smaller MP4 before pushing.
+GitHub has a **100 MB** per-file limit. If your file is larger, compress it or convert to a smaller MP4 before pushing.
